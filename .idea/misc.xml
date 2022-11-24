@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/drawable-login/ic_login_background.xml" value="0.1945" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/drawable/ic_background_logo_login.xml" value="0.1945" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/drawable/ic_loading_background.xml" value="0.1945" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/drawable/ic_loading_frame.xml" value="0.1945" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/drawable/ic_login_background.xml" value="0.1945" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/drawable/ic_login_forms_rectangle.xml" value="0.1465" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/drawable/ic_login_input_text.xml" value="0.1465" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/drawable/login_entrar_button_bg.xml" value="0.1465" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/drawable/login_input_text.xml" value="0.1465" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/drawable/splash_screen.xml" value="0.1465" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/layout/activity_edit.xml" value="0.13243243243243244" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/layout/activity_home.xml" value="0.13243243243243244" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/layout/activity_main.xml" value="0.13243243243243244" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/layout/activity_portfolio.xml" value="0.13243243243243244" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/layout/activity_profile.xml" value="0.13243243243243244" />
+        <entry key="..\:/Users/thith/OneDrive/Documentos/GitHub/Kopili/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
